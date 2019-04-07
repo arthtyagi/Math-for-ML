@@ -4,7 +4,7 @@ This repository contains ipynb files for the assignments in the Math for ML spec
 
 This repository contains IPYNB files for the following courses:
 
-## 1. Linear Algebra 
+## 1. [Linear Algebra](https://github.com/arthtyagi/Math-for-ML/tree/master/Linear%20Algebra) 
 ## 2. Multivariable Calculus
 ## 3. Principal Component Analysis
 
